@@ -93,5 +93,3 @@ Enjoy exploring Python and remember, the best way to learn is by doing. Start wr
 *Article content is generated using ChatGPT*
 
 
-
-
